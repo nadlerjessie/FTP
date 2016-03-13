@@ -9,6 +9,7 @@ gem 'pry'
 gem 'launchy'
 gem 'httparty'
 gem 'recursive-open-struct'
+gem 'haml'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
